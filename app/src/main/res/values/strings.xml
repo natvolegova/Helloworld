@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="hint_name">Введите имя кота</string>
+    <string name="result_defailt">Пустое значение</string>
+    <string name="button_name">Поздороваться</string>
+    <string name="button_name2">Попрощаться</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+    <string name="about_text">У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="about_title">О программе</string>
+    <string name="birthday_title">День рожденье</string>
+    <string name="birthday_text">На первых порах я бы посоветовал вам вручную создавать все необходимые компоненты для новой активности, чтобы понимать взаимосвязь между классом, разметкой и манифестом. А когда набьёте руку, то можете использовать мастер создания активности для ускорения работы.</string>
+</resources>
